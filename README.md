@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter,Github,Dart,Network,CyberSecurity**
 
-- 💬 Ask me about **CyberSecurity , Networking and Software development**
+- 💬 Ask me about **CyberSecurity , Networking **
 
 - 📫 How to reach me **sadeeshanaakash16@gmail.com**
 
